@@ -1,6 +1,6 @@
 # LED-Point-matching in 2D
 
-##Introduction
+## Introduction
 This Point matching algorithm is call [Robust point matching](https://en.wikipedia.org/wiki/Point_set_registration#Robust_point_matching) whose detail is in this paper [link](https://www.cise.ufl.edu/~anand/pdf/prrevfinal.pdf)
 
 This algorithm is belong to non-rigid registration but only suitable for regid-body point set.The distance of any two points within the set is unchanged after mapping in 3D space. For example in this case, it matches two LEDs set on network switch.
@@ -17,7 +17,7 @@ We can see the mayching process as below
 
 For the application detail in my real case. See here [[mandarin]](https://zongsoftwarenote.blogspot.com/2018/01/point-matching-algorithm-for-rigid-body.html#more) [[Slides in English]](https://docs.google.com/presentation/d/1WqPyfLMDJUNg_eXAg0ISzHjTDkNoBHfAsP43zSk7MYU/edit#slide=id.g2f647f410e_0_66)
 
-##How to run my code
+## How to run my code
 '''
 $ python eval.py
 '''
