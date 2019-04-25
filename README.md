@@ -15,6 +15,6 @@ We can see the mayching process as below
 
 ![Matching Demo](https://github.com/LI-ZONG-HAN/LED-Point-matching/blob/master/Matching_Animation.gif)
 
-For the application detail in my real case. See here [mandarin](https://zongsoftwarenote.blogspot.com/2018/01/point-matching-algorithm-for-rigid-body.html#more) [Slides in English](https://docs.google.com/presentation/d/1WqPyfLMDJUNg_eXAg0ISzHjTDkNoBHfAsP43zSk7MYU/edit#slide=id.g2f647f410e_0_66)
+For the application detail in my real case. See here [[mandarin]](https://zongsoftwarenote.blogspot.com/2018/01/point-matching-algorithm-for-rigid-body.html#more) [[Slides in English]](https://docs.google.com/presentation/d/1WqPyfLMDJUNg_eXAg0ISzHjTDkNoBHfAsP43zSk7MYU/edit#slide=id.g2f647f410e_0_66)
 
 $ python eval.py
