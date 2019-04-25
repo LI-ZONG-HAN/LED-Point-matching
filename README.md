@@ -17,4 +17,7 @@ We can see the mayching process as below
 
 For the application detail in my real case. See here [[mandarin]](https://zongsoftwarenote.blogspot.com/2018/01/point-matching-algorithm-for-rigid-body.html#more) [[Slides in English]](https://docs.google.com/presentation/d/1WqPyfLMDJUNg_eXAg0ISzHjTDkNoBHfAsP43zSk7MYU/edit#slide=id.g2f647f410e_0_66)
 
+##How to run my code
+'''
 $ python eval.py
+'''
